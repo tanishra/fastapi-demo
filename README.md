@@ -20,8 +20,8 @@ I have explored the basics of building APIs, including CRUD operations, and also
 --- 
 
 ## Deployment
-You can test my deployed FastAPI project using **Swagger UI** at:  
-`<https://fastapi-demo-7fju.onrender.com>`
+You can test my deployed FastAPI project using **Swagger UI** here:  
+[**Click Here to Open Swagger UI**](https://fastapi-demo-7fju.onrender.com/docs)
 
 ---
 
