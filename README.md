@@ -21,7 +21,7 @@ I have explored the basics of building APIs, including CRUD operations, and also
 
 ## Deployment
 You can test my deployed FastAPI project using **Swagger UI** at:  
-`<Your Render Deployment Link>`
+`<https://fastapi-demo-7fju.onrender.com>`
 
 ---
 
