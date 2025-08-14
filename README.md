@@ -28,25 +28,20 @@ You can test my deployed FastAPI project using **Swagger UI** here:
 ## How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/tanishra/fastapi-demo.git
     ```
 
-2. Navigate into the project folder:
-   ```bash
-   cd <folder-name>
-   ````
-
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ````
 
-4. Run the FastAPI app:
+3. Run the FastAPI app:
     ```bash
-    uvicorn main:app --reload
+    uvicorn api2:app --reload
     ````
 
-5. Open your browser and go to:
+4. Open your browser and go to:
     ```bash
     http://127.0.0.1:8000/docs
     ````
